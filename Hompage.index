@@ -1,0 +1,4 @@
+<html>
+<title>Meine Homepage</title>
+<a href="#" onclick="myJsFunc();">Run JavaScript Code</a>
+</html>
