@@ -1,2 +1,2 @@
 # myrepo
-HI HAve fun
+Hi have fun
